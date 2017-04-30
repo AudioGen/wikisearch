@@ -1,5 +1,6 @@
 # wikisearch
 Wikipedia Search
 
-This is a Program that allows to search a Random Wikipedia article as well as an article the individual chooses.
-There is some interesting code going on here.
+This is the code that is used for the program that has a random wikipedia entry button, as well as one that you can search yourself.
+
+
